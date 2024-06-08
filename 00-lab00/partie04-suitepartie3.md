@@ -2,7 +2,7 @@
 
 ## Objectif
 
-Cet exercice guidera vos étudiants à travers la création d'une application de gestion de contacts en utilisant Java Swing et NetBeans. Ils apprendront à manipuler plusieurs composants Swing et à implémenter diverses fonctionnalités.
+Cet exercice vous guidera  à travers la création d'une application de gestion de contacts en utilisant Java Swing et NetBeans. Vous apprendrez à manipuler plusieurs composants Swing et à implémenter diverses fonctionnalités.
 
 ## Étape 1: Préparer le Projet
 
