@@ -87,7 +87,7 @@ Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l
 
 ## 1 - Téléchargez le lab1-enonce.zip et importez le projet : 
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/55bd66cb-f821-4d4e-9b39-754a1ed88a56)
-## 2 - Cliquez sur lib :
+## 2 - Cliquez sur librairies :
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/696248ba-36be-4d95-9360-62fcee723280)
 ## 3 - Cliquez sur Add JAR : 
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/970c2160-077f-4792-9dfb-3da6b79ff180)
@@ -117,10 +117,53 @@ Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l
 
 
 
-
-
 ---
 # Instructions - partie 3 :
+
+## 01 - Téléchargez la correction !
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/2b1f18e8-3bed-4049-839c-26bf15726f56)
+
+## 02 - Importez le projet sur Netbeans
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/176c3c4b-1151-48ec-86ec-04cfc2306bc7)
+
+## 03 - Remarquez que l'import de la ligne 40 ne fonctionne pas, il faut importer le IDlogger.jar
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/d6442989-1ff4-489b-94ff-224bf08502e6)
+
+## 04 - Cliquez sur librairies :
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/696248ba-36be-4d95-9360-62fcee723280)
+## 05 - Cliquez sur Add JAR : 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/970c2160-077f-4792-9dfb-3da6b79ff180)
+## 06 -  Choisir IDLogger.jar 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/55fd8dda-ece3-48d9-9473-59e3e20b143f)
+
+## 07 - vos remarques ? L'erreur disprait-elle ? Regardez la ligne 40 !
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/0d2d51ef-0947-487d-b6e7-66704e9e070b)
+
+## 08 - Exécutez
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/702fdc48-8097-4985-9e92-295f4eae034a)
+
+## 09 - Cliquez sur Draw / Connect ?
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/0753a9d5-024e-49d7-8da6-bd9ebafa56c9)
+
+## 08 - vos remarques ?
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/ce896de7-b854-4a6c-877b-f506dd5f7670)
+
+
+## 09 - vos remarques ?
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/2607fad9-3296-4e2c-b959-8b8e65667196)
+
+
+## 10 - vos remarques ?
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/ca8bc85a-3be9-41ab-acb6-1eaa9d796c4f)
+
+
+## 11 - vos remarques ?
+
+## 12 - vos remarques ?
+
+## 13 - vos remarques ?
+
+## 14 - vos remarques ?
 
 
 ---
