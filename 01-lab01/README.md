@@ -145,7 +145,7 @@ Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l
 ## 09 - Cliquez sur Draw / Connect ?
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/0753a9d5-024e-49d7-8da6-bd9ebafa56c9)
 
-## 08 - vos remarques ?
+## 10 - Validez l'adresse IP et le port ?
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/ce896de7-b854-4a6c-877b-f506dd5f7670)
 
 
