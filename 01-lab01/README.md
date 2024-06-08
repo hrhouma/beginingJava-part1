@@ -1,6 +1,6 @@
-
+-----------
 # Instructions - partie 1 :
-
+-----------
 - Téléchargez les fichiers 
 - Pour exécuter et tester le serveur de formes avec Telnet, voici la suite des commandes et les étapes nécessaires :
 
@@ -82,9 +82,9 @@ GET
 Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l'interface du serveur devrait refléter les changements en temps réel, comme illustré dans l'image fournie.
 
 
----
+-----------
 # Instructions - partie 2 :
-
+-----------
 ## 1 - Téléchargez le lab1-enonce.zip et importez le projet : 
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/55bd66cb-f821-4d4e-9b39-754a1ed88a56)
 ## 2 - Cliquez sur librairies :
@@ -117,9 +117,9 @@ Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l
 
 
 
----
+-----------
 # Instructions - partie 3 :
-
+-----------
 ## 01 - Téléchargez la correction !
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/2b1f18e8-3bed-4049-839c-26bf15726f56)
 
@@ -145,30 +145,24 @@ Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l
 ## 09 - Cliquez sur Draw / Connect ?
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/0753a9d5-024e-49d7-8da6-bd9ebafa56c9)
 
-## 10 - Validez l'adresse IP et le port ?
+## 10 - Validez l'adresse IP (127.0.0.1) et le port (10000) et cliquez sur OK?
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/ce896de7-b854-4a6c-877b-f506dd5f7670)
 
 
-## 09 - vos remarques ?
+## 09 - Observez l'interface cliente. Vos remarques ?
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/2607fad9-3296-4e2c-b959-8b8e65667196)
 
 
-## 10 - vos remarques ?
+## 10 - Observez l'interface client (ou vous avez les formes et l'interface serveur (serveurForme.jar) ). Vos remarques ?
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/ca8bc85a-3be9-41ab-acb6-1eaa9d796c4f)
 
 
-## 11 - vos remarques ?
-
-## 12 - vos remarques ?
-
-## 13 - vos remarques ?
-
-## 14 - vos remarques ?
-
-
----
+-----------
 # Instructions - partie 4 :
-
+-----------
+- Comparez la partie 1 et la partie 4.
+- C'est qui le client et le serveur dans la partie 1 ?
+- C'est qui le client et le serveur dans la partie 4 ?
 
 ## Résumé commandes 1
 
