@@ -98,6 +98,26 @@ Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/d07d1e50-4f8c-4788-a58b-bb0d7667a485)
 
 ## 6 - importez le projet 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/1315bedc-4b45-45c3-b176-4ad4b0a66be9)
+
+## 7 - importez le projet 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/1315bedc-4b45-45c3-b176-4ad4b0a66be9)
+
+## 8 - importez le projet 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/3548e455-799a-4abb-9f10-3e2602914241)
+
+## 8 - importez le projet 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/4b93e43f-389b-485f-b379-f832cd157e10)
+
+## 8 - importez le projet 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/6254652b-eb1f-4b97-ac27-a7950bdcce9d)
+
+## 9 - vos remarques
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/6254652b-eb1f-4b97-ac27-a7950bdcce9d)
+
+
+
+
 
 ---
 # Instructions - partie 3 :
