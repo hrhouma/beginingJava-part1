@@ -96,6 +96,19 @@ Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l
 ---
 # Instructions - partie 2 :
 
+## 1 - importez le projet 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/55bd66cb-f821-4d4e-9b39-754a1ed88a56)
+## 2 - importez le projet 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/696248ba-36be-4d95-9360-62fcee723280)
+## 3 - importez le projet 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/970c2160-077f-4792-9dfb-3da6b79ff180)
+## 4 - importez le projet 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/55fd8dda-ece3-48d9-9473-59e3e20b143f)
+
+## 5 - importez le projet 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/d07d1e50-4f8c-4788-a58b-bb0d7667a485)
+
+## 6 - importez le projet 
 
 ---
 # Instructions - partie 3 :
