@@ -268,6 +268,6 @@ Cet exercice guidera vos étudiants à travers la création d'une application de
 
 ## Conclusion
 
-Avec ce tutoriel, vos étudiants auront appris à créer une application de gestion de contacts en utilisant Java Swing et NetBeans. Ils auront utilisé divers composants Swing, implémenté des fonctionnalités telles que l'ajout, la suppression, la sauvegarde, le chargement et la recherche de contacts, et travaillé avec des événements et des fichiers.
+- Avec ce tutoriel, vous avez créée une application de gestion de contacts en utilisant Java Swing et NetBeans. Vous avez utilisé divers composants Swing, implémenté des fonctionnalités telles que l'ajout, la suppression, la sauvegarde, le chargement et la recherche de contacts, et travaillé avec des événements et des fichiers.
 
-Ce projet peut être étendu avec plus de fonctionnalités, telles que la modification de contacts, l'ajout de photos de profil, etc. Encouragez vos étudiants à expérimenter et à ajouter leurs propres fonctionnalités pour améliorer l'application.
+- Ce projet peut être étendu avec plus de fonctionnalités, telles que la modification de contacts, l'ajout de photos de profil, etc. Encouragez vos étudiants à expérimenter et à ajouter leurs propres fonctionnalités pour améliorer l'application.
