@@ -43,8 +43,14 @@
 
 Pendant que vous envoyez des commandes GET, vous pouvez observer l'interface graphique du serveur (comme montré dans l'image) pour vérifier les formes transmises et les connexions actives. Vous devriez voir les compteurs de "Formes transmises" et "Connexions" se mettre à jour à chaque requête GET.
 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/90cecbcf-4f38-403e-bacb-58aef1acd2eb)
+
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/7907673a-0774-4e83-9567-4d333e313a25)
+
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/a66d196c-7303-4043-9d83-b8a43ce10620)
+
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/3dca051a-862f-4b29-8a60-8c77db1e2700)
+
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/6b668637-0fe2-4d5d-9b3c-98e670114edb)
 
 
@@ -69,13 +75,25 @@ GET
 
 Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l'interface du serveur devrait refléter les changements en temps réel, comme illustré dans l'image fournie.
 
---
+## Résumé commandes 1
+
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/90cecbcf-4f38-403e-bacb-58aef1acd2eb)
+
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/7907673a-0774-4e83-9567-4d333e313a25)
+
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/a66d196c-7303-4043-9d83-b8a43ce10620)
+
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/3dca051a-862f-4b29-8a60-8c77db1e2700)
+
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/6b668637-0fe2-4d5d-9b3c-98e670114edb)
+
+---
 # Instructions - partie 2 :
 
 
---
+---
 # Instructions - partie 3 :
 
 
---
+---
 # Instructions - partie 4 :
