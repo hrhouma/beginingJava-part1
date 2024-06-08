@@ -1,5 +1,5 @@
 -----------
-# Instructions - partie 1 :
+# Instructions - partie 1 : Client telenet et serveur ServeurForme.jar
 -----------
 - Téléchargez les fichiers 
 - Pour exécuter et tester le serveur de formes avec Telnet, voici la suite des commandes et les étapes nécessaires :
@@ -83,7 +83,7 @@ Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l
 
 
 -----------
-# Instructions - partie 2 :
+# Instructions - partie 2 : Client application java incomplète et le serveur est ServeurForme.jar
 -----------
 ## 1 - Téléchargez le lab1-enonce.zip et importez le projet : 
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/55bd66cb-f821-4d4e-9b39-754a1ed88a56)
@@ -118,7 +118,7 @@ Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l
 
 
 -----------
-# Instructions - partie 3 :
+# Instructions - partie 3 : Client application java complète et le serveur est ServeurForme.jar
 -----------
 ## 01 - Téléchargez la correction !
 ![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/2b1f18e8-3bed-4049-839c-26bf15726f56)
@@ -158,21 +158,9 @@ Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l
 
 
 -----------
-# Instructions - partie 4 :
+# Instructions - partie 4 : Questions 
 -----------
-- Comparez la partie 1 et la partie 4.
+- Comparez la partie 1 et la partie 3.
 - C'est qui le client et le serveur dans la partie 1 ?
 - C'est qui le client et le serveur dans la partie 4 ?
-
-## Résumé commandes 1
-
-![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/90cecbcf-4f38-403e-bacb-58aef1acd2eb)
-
-![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/7907673a-0774-4e83-9567-4d333e313a25)
-
-![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/a66d196c-7303-4043-9d83-b8a43ce10620)
-
-![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/3dca051a-862f-4b29-8a60-8c77db1e2700)
-
-![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/6b668637-0fe2-4d5d-9b3c-98e670114edb)
-
+- Décrire le fonctionnement de l'application !
