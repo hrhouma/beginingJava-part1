@@ -1,5 +1,5 @@
 
-# Instructions :
+# Instructions - partie 1 :
 
 - Téléchargez les fichiers 
 - Pour exécuter et tester le serveur de formes avec Telnet, voici la suite des commandes et les étapes nécessaires :
@@ -69,3 +69,13 @@ GET
 
 Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l'interface du serveur devrait refléter les changements en temps réel, comme illustré dans l'image fournie.
 
+--
+# Instructions - partie 2 :
+
+
+--
+# Instructions - partie 3 :
+
+
+--
+# Instructions - partie 4 :
