@@ -41,8 +41,9 @@
 
 5. **Observer l'interface du serveur :**
 
-   Pendant que vous envoyez des commandes GET, vous pouvez observer l'interface graphique du serveur (comme montré dans l'image) pour vérifier les formes transmises et les connexions actives. Vous devriez voir les compteurs de "Formes transmises" et "Connexions" se mettre à jour à chaque requête GET.
+Pendant que vous envoyez des commandes GET, vous pouvez observer l'interface graphique du serveur (comme montré dans l'image) pour vérifier les formes transmises et les connexions actives. Vous devriez voir les compteurs de "Formes transmises" et "Connexions" se mettre à jour à chaque requête GET.
 
+![image](https://github.com/hrhouma/beginingJava-part1/assets/10111526/51f0470f-a045-44c3-a781-364a02195028)
 
 
 Voici un exemple de séquence de commandes pour référence :
@@ -60,6 +61,7 @@ GET
 # Observez la réponse, puis tapez de nouveau :
 GET
 # Répétez plusieurs fois pour obtenir différentes formes
+# Observer l'interface du serveur 
 ```
 
 Chaque commande GET devrait générer une réponse avec une nouvelle forme, et l'interface du serveur devrait refléter les changements en temps réel, comme illustré dans l'image fournie.
