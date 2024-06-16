@@ -2,7 +2,7 @@
 
 ### Instructions Générales
 
-Pour cet examen, vous allez analyser le code fourni pour un projet de visualisation de l'algorithme KMeans. Vous devrez identifier et décrire les composants POO du code en Python. Ensuite, vous allez transformer la structure générale de ce code en Java, sans implémenter les méthodes. Vous devrez simplement écrire la structure des classes et les signatures des méthodes.
+Pour cet examen, vous allez analyser le code fourni pour un projet de visualisation de l'algorithme KMeans en Python et répondre à des questions en Java. Vous devrez identifier et décrire les composants POO du code en Python. Ensuite, vous allez transformer la structure générale de ce code en Java, sans implémenter les méthodes. Vous devrez simplement écrire la structure des classes et les signatures des méthodes.
 
 ### Partie 1 : Analyse du Code Python (50%)
 
@@ -230,5 +230,25 @@ public class KMeansVisualizer extends JFrame {
     }
 }
 ```
+
+### Partie 3 : Questions en Java (20%)
+
+**Questions :**
+
+1. **Constructeur en Java :**
+   - Expliquez comment le constructeur `KMeansVisualizer()` initialise les propriétés de la classe.
+   - Quel est le rôle de `super("K-Means Visualization")` dans le constructeur ?
+
+2. **Héritage en Java :**
+   - De quelle classe `KMeansVisualizer` hérite-t-elle en Java ?
+   - Pourquoi utilise-t-on `extends JFrame` dans la déclaration de la classe ?
+
+3. **Méthodes en Java :**
+   - Nommez les méthodes privées définies dans la classe Java et décrivez leur rôle.
+   - Comment la méthode `createWidgets()` organise-t-elle les composants graphiques ?
+
+4. **Gestion des événements en Java :**
+   - Comment la méthode `onClick(MouseEvent event)` est-elle déclenchée en Java ?
+   - Décrivez comment vous ajouteriez un écouteur d'événements pour gérer les clics de souris sur le graphique.
 
 ### Bon travail !
