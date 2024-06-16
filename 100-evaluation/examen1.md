@@ -117,7 +117,7 @@ Créez un fichier Python et réalisez les étapes suivantes :
 5. Instanciez un objet de la classe `Person` avec votre nom et âge.
 6. Appelez la méthode `greet` et affichez l'objet.
 
-### Instructions pour les Étudiants :
+### Instructions :
 
 1. Écrivez le code Java dans un fichier Java, compilez et exécutez-le pour vous assurer qu'il fonctionne correctement.
 2. Écrivez le code Python dans un fichier Python et exécutez-le pour vous assurer qu'il fonctionne correctement.
